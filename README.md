@@ -16,7 +16,8 @@ Doação de sangue.
 * Romell
 
 ## Quadro de tarefas
-Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
+[Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.]
+(https://miro.com/app/board/uXjVMdb7XEo=/#tpicker-content)
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
