@@ -73,7 +73,7 @@ html {
 /* graficos sangue */
 .graficos-sangue {
     height: 38vh;
-    background: rgb(255, 187, 214);
+    background: rgb(249, 203, 221);
     padding: 100px;
     width: 100vw;
     line-height: 1.7em;
@@ -93,7 +93,7 @@ html {
 .cards{
     height: 80vh;
     width: 100vw;
-    background-color: rgba(29, 29, 29, 0.8);
+    background-color: rgba(77, 74, 74, 0.8);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
